@@ -1,0 +1,3 @@
+Flask
+SQlAlchemy
+psycopg2-binary
